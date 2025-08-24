@@ -91,10 +91,4 @@ Feel free to submit pull requests with:
 
 ---
 
-## 📜 License
-
-MIT License — free to use, modify, and share.
-
----
-
 ### ⭐ If you find these workflows useful, consider starring the repo!
